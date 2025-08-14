@@ -1,0 +1,8 @@
+{
+  "short_name": "Comput",
+  "name": "Site comput yourself",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
